@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cardápio da Lanchonete</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <div class="logo">
+      <h1>Lanchonete do Bairro</h1>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="carrinho.html">Carrinho</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <!-- Filtros e Busca -->
+    <section id="filtros">
+      <input type="text" id="busca" placeholder="Buscar produto...">
+      <select id="categoriaFiltro">
+        <option value="todos">Todas as categorias</option>
+        <option value="lanches">Lanches</option>
+        <option value="bebidas">Bebidas</option>
+        <option value="doces">Doces</option>
+      </select>
+    </section>
+
+    <!-- Cardápio -->
+    <section id="cardapio" class="cardapio"></section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
+
+

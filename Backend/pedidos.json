@@ -1,0 +1,100 @@
+[
+  {
+    "cliente": "Gisella ",
+    "observacoes": "",
+    "itens": [
+      {
+        "id": 6,
+        "nome": "Torta de Limão",
+        "preco": 10,
+        "categoria": "doces",
+        "descricao": "Torta de limão cremosa.",
+        "imagem": "imgs/torta.jpg",
+        "quantidade": 1
+      },
+      {
+        "id": 1,
+        "nome": "Batata Frita",
+        "preco": 15,
+        "categoria": "lanches",
+        "descricao": "Batata crocante.",
+        "imagem": "imgs/batata.jpg",
+        "quantidade": 1
+      }
+    ],
+    "id": 1758722322124
+  },
+  {
+    "cliente": "gisella",
+    "observacoes": "",
+    "itens": [
+      {
+        "id": 2,
+        "nome": "Brigadeiro",
+        "preco": 5,
+        "categoria": "doces",
+        "descricao": "Brigadeiro tradicional.",
+        "imagem": "imgs/brigadeiro.jpg",
+        "quantidade": 1
+      }
+    ],
+    "id": 1758722354364
+  },
+  {
+    "cliente": "Gisella",
+    "observacoes": "",
+    "itens": [
+      {
+        "id": 2,
+        "nome": "Brigadeiro",
+        "preco": 5,
+        "categoria": "doces",
+        "descricao": "Brigadeiro tradicional.",
+        "imagem": "imgs/brigadeiro.jpg",
+        "quantidade": 1
+      }
+    ],
+    "id": 1758722583521
+  },
+  {
+    "cliente": "Gisella Medeiros ",
+    "observacoes": "",
+    "itens": [
+      {
+        "id": 3,
+        "nome": "Coca-Cola Lata",
+        "preco": 6,
+        "categoria": "bebidas",
+        "descricao": "Refrigerante gelado.",
+        "imagem": "imgs/coca.png",
+        "quantidade": 1
+      }
+    ],
+    "id": 1758723475598
+  },
+  {
+    "cliente": "Charlotte",
+    "observacoes": "",
+    "itens": [
+      {
+        "id": 3,
+        "nome": "Coca-Cola Lata",
+        "preco": 6,
+        "categoria": "bebidas",
+        "descricao": "Refrigerante gelado.",
+        "imagem": "imgs/coca.png",
+        "quantidade": 1
+      },
+      {
+        "id": 1,
+        "nome": "Batata Frita",
+        "preco": 15,
+        "categoria": "lanches",
+        "descricao": "Batata crocante.",
+        "imagem": "imgs/batata.jpg",
+        "quantidade": 1
+      }
+    ],
+    "id": 1759810375030
+  }
+]
